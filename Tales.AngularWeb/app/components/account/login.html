@@ -1,0 +1,38 @@
+﻿
+<div class="col-md-8">
+    <section id="loginForm">
+        <h4>Use a local account to log in.</h4>
+        <hr />
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <label class="text-danger">{{ loginErrorDescription }}</label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Email</label>
+            <div class="col-md-10">
+                <input type="text" class="form-control" ng-model="loginEmail" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-2 control-label">Password</label>
+            <div class="col-md-10">
+                <input type="text" class="form-control" ng-model="loginPassword" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Log in" class="btn btn-default" ng-click="login()" />
+            </div>
+        </div>
+
+       
+        <p>
+            <a href="#/Register">Register</a>
+        </p>
+    </section>
+</div>
+

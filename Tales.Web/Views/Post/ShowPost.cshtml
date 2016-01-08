@@ -1,0 +1,111 @@
+﻿@model Tales.Web.ViewModels.ShowPostViewModel
+
+
+@{
+    ViewBag.Title = "Post";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-8 blog-main">
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div class="alert alert-info wrapper confirmation-alert"><p><i class="fa fa-info-circle"></i>&nbsp; @ViewBag.Message</p></div>
+    }
+    <article class="blog-post">
+        <header>
+            <h1>@Model.Post.Title </h1>    
+        </header>
+        <div class="body">
+            @Html.Raw(Model.Post.Description)
+        </div>
+        <div class="lead-image">
+            <div class="meta clearfix">
+                <div class="author">
+                    <i class="fa fa-user"></i>
+                    <span class="data">@Model.PublishedBy</span>
+                </div>
+                <div class="date">
+                    <i class="fa fa-calendar"></i>
+                    <span class="data">@Model.Post.PublishedDate</span>
+                </div>
+                <div class="comments">
+                    <i class="fa fa-comments"></i>
+                    <span class="data"><a href="http://demo.hackerthemes.com/tales/html-version/v2-1/blog-detail.html#comments">@Model.Post.Comments.Count Comments</a></span>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <aside class="comments" id="comments">
+        <hr>
+        <h2><i class="fa fa-comments"></i>@Model.Post.Comments.Count Comments</h2>
+
+        @foreach (var comment in Model.Post.Comments)
+        {
+            <article class="comment ">
+                <header class="clearfix">
+                    <img src="~/Images/avatar.png" alt="A Smart Guy" class="avatar">
+                    <div class="meta">
+                        <h3>@comment.Name</h3>
+                        <span class="date">
+                        </span>
+                        <span class="separator">
+                            -
+                        </span>
+                        <a href="http://demo.hackerthemes.com/tales/html-version/v2-1/blog-detail.html#create-comment" class="reply-link">Reply</a>
+                    </div>
+                </header>
+                <div class="body">
+                    @comment.CommentContent
+                </div>
+            </article>
+        }
+    </aside>
+
+  @using (Ajax.BeginForm("ShowPost", "Post", new AjaxOptions() { InsertionMode = InsertionMode.Replace, UpdateTargetId = "create-comment", OnBegin = "showMessage", OnSuccess = "refreshPage" }, FormMethod.Post))
+  {
+
+    <aside class="create-comment" id="create-comment">
+        <hr>
+       
+        <h2><i class="fa fa-heart"></i> Add Comment</h2>
+        @Html.HiddenFor(a => a.CommentViewModel.PostId)
+        <div class="row">
+            <div class="col-md-6">
+                @Html.TextBoxFor(a => a.CommentViewModel.Name, new { @placeholder = "Name", @class = "form-control input-lg" })
+                @Html.ValidationMessageFor(model => model.CommentViewModel.Name, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-6">
+                @Html.TextBoxFor(a => a.CommentViewModel.Email, new { @placeholder = "Email", @class = "form-control input-lg", @value = "abc@gmail.com" })
+                @Html.ValidationMessageFor(model => model.CommentViewModel.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @Html.TextBoxFor(a => a.CommentViewModel.Website, new { @placeholder = "Name", @class = "form-control input-lg" })
+
+
+        @Html.TextAreaFor(a => a.CommentViewModel.CommentContent, new { @placeholder = "Comment", @class = "form-control input-lg", @rows = 10 })
+        @Html.ValidationMessageFor(model => model.CommentViewModel.CommentContent, "", new { @class = "text-danger" })
+
+
+        <div class="buttons clearfix">
+            <button class="btn btn-xlarge btn-tales-two">Cancel</button>
+            <button type="submit" class="btn btn-xlarge btn-tales-one">Submit</button>
+        </div>
+    </aside>
+  }
+
+</div>
+
+
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".confirmation-alert").fadeTo(2000, 500).slideUp(500, function () {
+                $(".confirmation-alert").alert('close');
+            });
+        });
+     </script>
+ }

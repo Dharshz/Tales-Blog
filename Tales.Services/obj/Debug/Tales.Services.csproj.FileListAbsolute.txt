@@ -1,0 +1,51 @@
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\obj\Debug\Tales.Services.csprojResolveAssemblyReference.cache
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\Tales.Services.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\Tales.Services.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\ClassLibrary1.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\Tales.Data.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\EntityFramework.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\ClassLibrary1.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\Tales.Data.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\bin\Debug\EntityFramework.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\obj\Debug\Tales.Services.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Services\obj\Debug\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Data.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Data.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Services\obj\Debug\Tales.Services.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog\Tales.Services\obj\Debug\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\obj\Debug\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Services.dll.config
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\Tales.Utilities.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Darsh\Projects\TalesBlog\Tales.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Services.dll.config
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Data.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Data.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\bin\Debug\Tales.Utilities.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\obj\Debug\Tales.Services.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\obj\Debug\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Services\obj\Debug\Tales.Services.pdb

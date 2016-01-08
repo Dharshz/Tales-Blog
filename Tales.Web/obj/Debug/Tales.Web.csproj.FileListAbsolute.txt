@@ -1,0 +1,274 @@
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\obj\Debug\Tales.Web.csprojResolveAssemblyReference.cache
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\csc.exe
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\vbc.exe
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\VBCSCompiler.exe
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Web.dll.config
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Web.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Web.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Antlr3.Runtime.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\EntityFramework.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\EntityFramework.SqlServer.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Newtonsoft.Json.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Owin.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Net.Http.Formatting.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Helpers.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Http.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Http.WebHost.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Mvc.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Optimization.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Razor.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.WebPages.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.WebPages.Razor.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Data.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\WebGrease.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\ClassLibrary1.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Data.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Helpers.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Mvc.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Optimization.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Razor.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.WebPages.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.WebPages.Razor.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Antlr3.Runtime.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Newtonsoft.Json.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Net.Http.Formatting.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Http.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\System.Web.Http.WebHost.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\EntityFramework.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\EntityFramework.SqlServer.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\ClassLibrary1.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\obj\Debug\Tales.Web.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\obj\Debug\Tales.Web.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Autofac.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Ninject.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Ninject.Web.Common.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Ninject.Web.Mvc.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Services.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\WebActivatorEx.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Tales.Services.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Autofac.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Ninject.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Ninject.Web.Common.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web\bin\Ninject.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\obj\Debug\Tales.Web.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog\Tales.Web\obj\Debug\Tales.Web.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\obj\Debug\Tales.Web.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\csc.exe
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\vbc.exe
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\VBCSCompiler.exe
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Web.dll.config
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Web.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Web.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Antlr3.Runtime.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Autofac.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\EntityFramework.SqlServer.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Newtonsoft.Json.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Ninject.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Ninject.Web.Common.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Ninject.Web.Mvc.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Owin.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Net.Http.Formatting.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Helpers.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Http.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Http.WebHost.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Mvc.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Optimization.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Razor.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.WebPages.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.WebPages.Razor.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Data.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\WebActivatorEx.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\WebGrease.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Data.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Autofac.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Ninject.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Ninject.Web.Common.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Ninject.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Helpers.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Optimization.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Razor.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.WebPages.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.WebPages.Razor.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Antlr3.Runtime.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Newtonsoft.Json.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Net.Http.Formatting.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Http.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\System.Web.Http.WebHost.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\EntityFramework.SqlServer.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Microsoft.Owin.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web\bin\Tales.Utilities.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\csc.exe
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\vbc.exe
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\VBCSCompiler.exe
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Web.dll.config
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Web.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Web.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Antlr3.Runtime.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Autofac.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\EntityFramework.SqlServer.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Newtonsoft.Json.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Ninject.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Ninject.Web.Common.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Ninject.Web.Mvc.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Owin.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Net.Http.Formatting.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Helpers.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Http.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Http.WebHost.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Mvc.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Optimization.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Razor.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.WebPages.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.WebPages.Razor.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Data.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\WebActivatorEx.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\WebGrease.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Data.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Tales.Utilities.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Autofac.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\EntityFramework.SqlServer.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Newtonsoft.Json.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Ninject.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Ninject.Web.Common.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Ninject.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Helpers.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Optimization.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Razor.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.WebPages.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.WebPages.Razor.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Antlr3.Runtime.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Net.Http.Formatting.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Http.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\System.Web.Http.WebHost.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\obj\Debug\Tales.Web.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\obj\Debug\Tales.Web.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web\obj\Debug\Tales.Web.pdb

@@ -1,0 +1,5 @@
+C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\bin\Release\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\bin\Release\Tales.Utilities.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\obj\Release\Tales.Utilities.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\obj\Release\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\obj\Release\Tales.Utilities.pdb

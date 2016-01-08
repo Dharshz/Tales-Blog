@@ -1,0 +1,19 @@
+﻿<ul class="nav navbar-nav navbar-right" ng-show="isLoggedIn">
+    <li>
+        Hi {{ userName }}!
+    </li>
+    <li>
+        <a href="#/Admin">Admin</a>
+    </li>
+</ul>
+
+<ul class="nav navbar-nav navbar-right" ng-show="!isLoggedIn">
+    <li>
+        <a href="#/login">Login</a>
+    </li>
+
+    <li>
+        <a href="#/register">Register</a>
+    </li>
+</ul>
+

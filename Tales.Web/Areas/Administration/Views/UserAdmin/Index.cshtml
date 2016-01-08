@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ClassLibrary1.User>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Administration/Views/Shared/_AdminLayout.cshtml";
+}
+<table class="table">
+    <tr>
+
+        <th>
+            User
+        </th>
+        <th>
+            Email
+        </th>
+
+        <th>
+            Enabled/Disabled
+        </th>
+        <th>
+            Action
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="@item.Id">
+
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td>
+                @Html.CheckBoxFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                <button class="btn btn-sm btn-primary accept-button">Remove User</button>
+                <button class="btn btn-sm btn-primary disable-button">Disable User</button>
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+@section adminscripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('.accept-button').click(function () {
+
+                var userId = $(this).closest('tr').prop('id') ? $(this).closest('tr').prop('id') : '0';
+
+                if (userId == '0') alert('Unable to parse user Id, Please contact Dev Team');
+
+                $.ajax({
+                    type: 'GET',
+                    url: '/Administration/UserAdmin/RemoveUser',
+                    traditional: true,
+                    data: { 'userId': userId },
+                    success: function (data) {
+                        if (data.Success == true) {
+                            alert('Successfully updated');
+                            $('table').find('#' + userId).fadeOut('slow').remove();
+                        }
+                        else {
+                            alert(data.Message);
+                        }
+                    },
+                    error: function (xhr) {
+                        alert(xhr.error.toString());
+                    }
+                });
+
+            });
+
+        });
+    </script>
+}

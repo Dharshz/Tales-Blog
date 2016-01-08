@@ -1,0 +1,86 @@
+﻿@model Tales.Web.Areas.Administration.ViewModels.PostViewModel
+
+@{
+    ViewBag.Title = "AddPost";
+    Layout = "~/Areas/Administration/Views/Shared/_AdminLayout.cshtml";
+}
+
+<link href="~/Content/Admin/css/jquery.tagsinput.min.css" rel="stylesheet" />
+
+
+<div>
+    <hr/>
+    <br/>
+
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div class="alert alert-info wrapper confirmation-alert"><p><i class="fa fa-info-circle"></i>&nbsp; @ViewBag.Message</p></div>
+    }
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Summery, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Summery, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Summery, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", @id = "descriptionEditor" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Category, Model.Categories, htmlAttributes: new { @class="form-control"})
+           </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Tags, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Tags, htmlAttributes: new { @class = "form-control", @id = "tags" })
+                @Html.ValidationMessageFor(model => model.Tags , "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Publish" class="btn btn-default" />        
+                @Html.CheckBoxFor(a => a.IsPublished, htmlAttributes: new { }) &nbsp; Publish Immediately
+            </div>
+        </div>
+    </div>
+}
+
+</div>
+<script src="~/Content/Admin/js/jquery.tagsinput.min.js"></script>
+<script src="//cdn.ckeditor.com/4.5.3/standard/ckeditor.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".confirmation-alert").fadeTo(2000, 500).slideUp(500, function () {
+            $(".confirmation-alert").alert('close');
+        });
+    });
+
+    $('#tags').tagsInput();
+    CKEDITOR.replace('Description');
+</script>

@@ -1,0 +1,96 @@
+﻿@using Microsoft.AspNet.Identity
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Admin</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <script src="~/Scripts/lib/jquery-1.10.2.min.js"></script>
+
+    <script src="~/Scripts/lib/bootstrap.min.js"></script>
+
+    <script src="~/Content/Admin/js/sb-admin-2.js"></script>
+
+    <script src="~/Content/Admin/js/metisMenu.min.js"></script>
+
+    @RenderSection("adminscripts", required: false)
+
+    <!-- Custom CSS -->
+    <link href="~/Content/Admin/css/sb-admin-2.css" rel="stylesheet" />
+    <link href="~/Content/Admin/css/metisMenu.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    @if (Request.IsAuthenticated)
+    {
+        <div id="wrapper">
+            <!-- Navigation -->
+            <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">Tales Blog Admin</a>
+                </div>
+                <!-- /.navbar-top-links -->
+                <div class="navbar-default sidebar" role="navigation">
+                    <div class="sidebar-nav navbar-collapse">
+                        <ul class="nav" id="side-menu">
+                            <li><a href="@Url.Action("Index", "Post", new { @area = "" })"><p class="fa fa-home"> &nbsp; Back to Home </p></a></li>
+                            @if (Request.IsAuthenticated && User.IsInRole("Admin"))
+                            {
+                                <li>
+                                    <a href="@Url.Action("Index", "UserAdmin")">Manage Users</a>
+                                </li>
+                            }
+                             <li>
+                                <a href="#">Manage Posts<span class="fa arrow"></span></a>
+                                <ul class="nav nav-second-level">
+                                    <li>
+                                        <a href="@Url.Action("Index", "PostAdmin")">All Post(s)</a>
+                                    </li>
+                                    <li>
+                                        <a href="@Url.Action("AddPost", "PostAdmin")">Add Post</a>
+                                    </li>
+                                </ul>
+                                <!-- /.nav-second-level -->
+                            </li>
+
+                            <li>
+                                <a href="@Url.Action("ModerateComments", "CommentAdmin")">Moderate Comments</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <!-- /.sidebar-collapse -->
+                </div>
+                <!-- /.navbar-static-side -->
+            </nav>
+            <!-- Page Content -->
+            <div id="page-wrapper">
+                <div class="container-fluid">
+                    @RenderBody()
+                    <!-- /.row -->
+                </div>
+                <!-- /.container-fluid -->
+            </div>
+            <!-- /#page-wrapper -->
+        </div>
+    }
+    
+<script type="text/javascript">
+    $('#side-menu').metisMenu();
+</script>
+</body>
+</html>

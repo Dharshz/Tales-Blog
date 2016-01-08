@@ -1,0 +1,41 @@
+﻿<div class="col-md-8 blog-main">
+    <h2>Register</h2>
+
+    <h4>Create a new account.</h4>
+    <hr />
+
+    <div class="form-group">
+        <label class="col-md-2 control-label">Email</label>
+        <div class="col-md-10">
+            <input type="text" class="form-control" ng-model="email" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">Password</label>
+        <div class="col-md-10">
+            <input type="text" class="form-control" ng-model="password" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">Confirm Password</label>
+        <div class="col-md-10">
+            <input type="text" class="form-control" ng-model="password2" />
+        </div>
+    </div>
+
+
+    <hr />
+
+
+    <label ng-show="hasRegistrationErrors" class=" text-danger">{{ registrationErrorDescription }}</label>
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Register" ng-click="register()" />
+        </div>
+    </div>
+
+   
+
+</div>

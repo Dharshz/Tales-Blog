@@ -1,0 +1,227 @@
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.dll.config
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Owin.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Data.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\ClassLibrary1.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Data.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\WebActivatorEx.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Services.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.dll
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Services.pdb
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Dev\Design Patterns\Prototype\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.dll.config
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\WebActivatorEx.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Owin.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Data.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Web.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Ninject.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Tales.Data.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.pdb
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Darsh\Projects\TalesBlog\Tales.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.dll.config
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Web.Tests.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\obj\Debug\Tales.Web.Tests.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Moq.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Data.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Services.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Utilities.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Web.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\WebActivatorEx.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Owin.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Data.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Services.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Utilities.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Web.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Moq.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\nunit.framework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml

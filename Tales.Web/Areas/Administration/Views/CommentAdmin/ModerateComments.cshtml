@@ -1,0 +1,118 @@
+﻿@model IEnumerable<Tales.Model.Post>
+
+@{
+    ViewBag.Title = "ModerateComments";
+    Layout = "~/Areas/Administration/Views/Shared/_AdminLayout.cshtml";
+}
+
+@section adminscripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('.accept-button').click(function () {
+
+                var commentId = $(this).closest('tr').prop('id') ? $(this).closest('tr').prop('id') : '0';
+                $.ajax({
+                    type: 'GET',
+                    url: '/Administration/CommentAdmin/AllowComment',
+                    traditional: true,
+                    data: { 'commentId': parseInt(commentId) },
+                    success: function (data) {
+                        if (data.Success == true) {
+                            alert('Successfully updated');
+                            $('table').find('#' + commentId).fadeOut('slow').remove();
+                        }
+                        else {
+                            alert(data.Message);
+                        }
+                    },
+                    error: function (xhr) {
+                        alert(xhr.error.toString());
+                    }
+                });
+
+            });
+
+
+            $('.remove-button').click(function (event) {
+
+                var commentId = $(this).closest('tr').prop('id') ? $(this).closest('tr').prop('id') : '0';
+                $.ajax({
+                    type: 'GET',
+                    url: '/Administration/CommentAdmin/RemoveComment',
+                    traditional: true,
+                    data: { 'commentId': parseInt(commentId) },
+                    success: function (data) {
+                        if (data.Success == true) {
+                            alert('Successfully updated');
+                            $('table').find('#' + commentId).fadeOut('slow').remove();
+
+                        }
+                        else {
+                            alert(data.Message);
+                        }
+                    },
+                    error: function (xhr) {
+                        alert(xhr.error.toString());
+                    }
+                });
+            });
+        });
+    </script>
+}
+<div style="background-color: #f8f8f8;">
+    @foreach (Tales.Model.Post post in Model.Where(a => a.Comments != null && a.Comments.Any() && a.Comments.Where(x => !x.IsModerated).ToList().Count() > 0))
+    {
+        <h5>@post.Title</h5>
+        <table class="table table-bordered table-responsive">
+            <thead>
+                <tr>
+                    <th>User </th>
+                    <th>Comment</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var comment in post.Comments.Where(a => !a.IsModerated))
+                {
+                    <tr id="@comment.CommentId">
+                        <td>@comment.Name</td>
+                        <td>@comment.CommentContent</td>
+                        <td>
+                            <button class="btn btn-sm btn-primary accept-button">Accept</button>
+                            <button class="btn btn-sm btn-danger remove-button">Remove</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    @{
+        bool anyUnmoderatedComment = false;
+        if (Model.Any())
+        {
+            foreach (var post in Model.Where(a => a.IsPublished == true).ToList())
+            {
+                foreach (var comment in post.Comments)
+                {
+                    if (!comment.IsModerated)
+                    {
+                        anyUnmoderatedComment = true;
+                        return;
+                    }
+
+                }
+            }
+
+        }
+    }
+
+    @if (!anyUnmoderatedComment)
+    {
+        <div class="alert alert-info wrapper confirmation-alert" id="aaaa"><p><i class="fa fa-info-circle"></i>&nbsp; No Comments to Currently Moderate</p></div>
+    }
+</div>
+
+

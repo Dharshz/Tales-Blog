@@ -1,0 +1,33 @@
+﻿<div class="col-md-8 blog-main">
+    <div class="row">
+        <div class="col-md-6 col-sm-6" ng-repeat="post in Posts">
+            <article class="blog-teaser">
+                <header>
+                    <h3><a href="#/Post/{{ post.postId }}">{{ post.title }}</a></h3>
+                    <span class="meta">{{ post.publishedDate }}</span>
+                    <hr>
+                </header>
+                <div class="body">
+                    {{ post.summery }}
+                </div>
+                <div class="clearfix body">
+                    <h6>On {{ post.publishedDate }} </h6>
+                    <ul class="tags">
+                        <li ng-repeat="tag in post.Tags">
+                            <h3>{{ tag.Name }}</h3>
+                            <a href="#" style="padding: 2px 6px; background-color:lightgray">{{ tag.Name }}</a>
+                        </li>
+                        <!--@foreach (var tag in item.Tags)
+                        {
+                        <li><a href="#" style="padding: 2px 6px; background-color:lightgray">@tag.Name</a></li>
+                        }-->
+                    </ul>
+                </div>
+                <div class="clearfix">
+
+                    <!--<a href="@Url.Action(" showpost","post", new { @postid=item.PostId })" class="btn btn-tales-one">Read more</a>-->
+                </div>
+            </article>
+        </div>
+    </div>
+</div>

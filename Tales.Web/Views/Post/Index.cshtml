@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Tales.Model.Post>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-8 blog-main">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+
+            <div class="col-md-6 col-sm-6">
+                <article class="blog-teaser">
+                    <header>
+                        <h3><a href="@Url.Action("ShowPost","Post", new { @postId = item.PostId })">@item.Title</a></h3>
+                        <span class="meta">@item.PublishedDate</span>
+                        <hr>
+                    </header>
+                    <div class="body">
+                        @Html.Raw(item.Summery)
+                    </div>
+                    <div class="clearfix body">
+                        <h6>On @item.PublishedDate</h6>
+                        <ul class="tags">
+                            @foreach (var tag in item.Tags)
+                            {
+                                <li><a href="#" style="padding: 2px 6px; background-color:lightgray">@tag.Name</a></li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="clearfix">
+                       
+                        <a href="@Url.Action("ShowPost","Post", new { @postId = item.PostId })" class="btn btn-tales-one">Read more</a>
+                    </div>
+                </article>
+            </div>
+
+
+        }
+
+
+    </div>
+    <nav>
+        <ul class="pager">
+            @if ((bool)ViewBag.HavePrevious)
+            {
+                <li><a href="@Url.Action("Index", "Post", new { @currentPage = (int)ViewBag.CurrentPage - 1 })">Previous</a></li>
+            }
+            @if ((bool)ViewBag.HaveNext)
+            {
+                <li><a href="@Url.Action("Index", "Post", new { @currentPage = (int)ViewBag.CurrentPage + 1 })">Next</a></li>
+            }
+        </ul>
+    </nav>
+</div>

@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Tales.Data.Infrastructure;
 using Tales.Data.Repositories;
-using Tales.Model;
+using Tales.Modal;
+
 
 namespace Tales.Services
 {

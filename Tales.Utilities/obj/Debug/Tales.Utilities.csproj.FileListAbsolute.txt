@@ -5,6 +5,5 @@ C:\Darsh\Projects\TalesBlog\Tales.Utilities\obj\Debug\Tales.Utilities.dll
 C:\Darsh\Projects\TalesBlog\Tales.Utilities\obj\Debug\Tales.Utilities.pdb
 C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\bin\Debug\Tales.Utilities.dll
 C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\bin\Debug\Tales.Utilities.pdb
-C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\obj\Debug\Tales.Utilities.csprojResolveAssemblyReference.cache
 C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\obj\Debug\Tales.Utilities.dll
 C:\Darsh\Projects\TalesBlog Angular\Tales.Utilities\obj\Debug\Tales.Utilities.pdb

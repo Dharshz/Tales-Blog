@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Tales.Data.Infrastructure;
-using Tales.Model;
+using Tales.Modal;
 
 namespace Tales.Data.Repositories
 {

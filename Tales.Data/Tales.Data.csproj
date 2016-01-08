@@ -152,7 +152,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Tales.Model.csproj">
+    <ProjectReference Include="..\Tales.Modal\Tales.Model.csproj">
       <Project>{0ed88cc3-5f25-4e98-9899-29979f9d51bf}</Project>
       <Name>Tales.Model</Name>
     </ProjectReference>

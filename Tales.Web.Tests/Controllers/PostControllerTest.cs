@@ -6,7 +6,7 @@ using Tales.Web;
 using Tales.Web.Controllers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using Tales.Model;
+using Tales.Modal;
 
 namespace Tales.Web.Tests.Controllers
 {

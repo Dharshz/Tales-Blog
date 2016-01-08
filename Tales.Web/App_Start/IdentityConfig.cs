@@ -12,7 +12,10 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using Tales.Web.Models;
 using Tales.Data;
-using ClassLibrary1;
+using Tales.Modal;
+
+
+
 
 namespace Tales.Web
 {

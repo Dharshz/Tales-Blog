@@ -1,11 +1,11 @@
-﻿using ClassLibrary1;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tales.Model
+namespace Tales.Modal
 {
     public class Post
     {

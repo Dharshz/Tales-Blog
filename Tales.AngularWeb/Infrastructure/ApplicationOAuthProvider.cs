@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.OAuth;
 using Microsoft.AspNet.Identity.Owin;
@@ -8,6 +8,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
+using Tales.Modal;
 
 namespace Tales.AngularWeb.Infrastructure
 {

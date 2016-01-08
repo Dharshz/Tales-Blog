@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
@@ -10,6 +10,9 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
 using Tales.Data;
+using Tales.Modal;
+
+
 
 namespace Tales.AngularWeb.Infrastructure
 {

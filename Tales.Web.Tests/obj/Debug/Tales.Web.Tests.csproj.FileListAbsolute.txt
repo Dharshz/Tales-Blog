@@ -201,7 +201,6 @@ C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.Web.Common
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.dll
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
-C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\ClassLibrary1.pdb
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Tales.Data.pdb
@@ -223,5 +222,4 @@ C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.Web.Common
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Ninject.xml
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
-C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Darsh\Projects\TalesBlog Angular\Tales.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml

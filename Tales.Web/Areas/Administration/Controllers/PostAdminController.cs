@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Tales.Model;
+using Tales.Modal;
 using Tales.Services;
 using Tales.Web.Areas.Administration.ViewModels;
 

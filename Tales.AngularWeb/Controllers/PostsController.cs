@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using Tales.AngularWeb.Models;
-using Tales.Model;
+using Tales.Modal;
 using Tales.Services;
 
 namespace Tales.AngularWeb.Controllers

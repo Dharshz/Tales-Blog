@@ -7,9 +7,9 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using Tales.Model;
 
-namespace ClassLibrary1
+
+namespace Tales.Modal
 {
     public class User : IdentityUser
     {

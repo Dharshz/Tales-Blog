@@ -31,3 +31,17 @@ C:\Darsh\Projects\TalesBlog Angular\ClassLibrary1\bin\Debug\Microsoft.AspNet.Ide
 C:\Darsh\Projects\TalesBlog Angular\ClassLibrary1\obj\Debug\Tales.Model.csprojResolveAssemblyReference.cache
 C:\Darsh\Projects\TalesBlog Angular\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Darsh\Projects\TalesBlog Angular\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\ClassLibrary1.dll.config
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\ClassLibrary1.pdb
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\obj\Debug\Tales.Model.csprojResolveAssemblyReference.cache
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\obj\Debug\ClassLibrary1.dll
+C:\Darsh\Projects\TalesBlog Angular\Tales.Modal\obj\Debug\ClassLibrary1.pdb

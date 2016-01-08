@@ -68,13 +68,13 @@
     <Compile Include="UserService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Tales.Model.csproj">
-      <Project>{0ed88cc3-5f25-4e98-9899-29979f9d51bf}</Project>
-      <Name>Tales.Model</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Tales.Data\Tales.Data.csproj">
       <Project>{33ca64e0-67ce-421e-8ff0-bc21f5095758}</Project>
       <Name>Tales.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tales.Modal\Tales.Model.csproj">
+      <Project>{0ed88cc3-5f25-4e98-9899-29979f9d51bf}</Project>
+      <Name>Tales.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

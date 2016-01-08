@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 using System;
@@ -12,6 +12,7 @@ using Microsoft.AspNet.Identity.Owin;
 using System.Web.Http;
 using Tales.AngularWeb.Infrastructure;
 using Tales.AngularWeb.Models;
+using Tales.Modal;
 
 namespace Tales.AngularWeb.Controllers
 {

@@ -9,7 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Tales.Web.Models;
-using ClassLibrary1;
+using Tales.Modal;
 
 namespace Tales.Web.Controllers
 {
@@ -80,6 +80,7 @@ namespace Tales.Web.Controllers
             switch (result)
             {
                 case SignInStatus.Success:
+
                     return RedirectToAction("Index", "Post");
                 case SignInStatus.LockedOut:
                     return View("Lockout");

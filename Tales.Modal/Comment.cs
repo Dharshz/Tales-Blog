@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tales.Model
+namespace Tales.Modal
 {
     public class Comment
     {

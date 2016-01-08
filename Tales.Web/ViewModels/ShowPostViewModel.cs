@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Tales.Model;
+using Tales.Modal;
 
 namespace Tales.Web.ViewModels
 {

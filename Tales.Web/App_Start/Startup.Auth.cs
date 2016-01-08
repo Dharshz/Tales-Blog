@@ -7,7 +7,7 @@ using Microsoft.Owin.Security.Google;
 using Owin;
 using Tales.Web.Models;
 using Tales.Data;
-using ClassLibrary1;
+using Tales.Modal;
 
 namespace Tales.Web
 {
